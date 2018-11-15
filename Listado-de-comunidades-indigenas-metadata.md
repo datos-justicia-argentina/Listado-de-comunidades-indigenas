@@ -3,7 +3,7 @@ Listado de comunidades indígenas
 
 En este conjunto de datos se detalla el listado de las comunidades indígenas existentes en el país.
 
-Esta tarea es llevada a cabo por el Instituto Nacional de Asuntos Indígenas – INAI, quien promueve y protege los derechos de los pueblos indígenas de Argentina.
+Esta tarea es llevada a cabo por el Registro Nacional de Comunidades Indígenas (Re.Na.Ci)que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI, este es el encargado de promover y proteger los derechos de los pueblos indígenas de Argentina.
 
 El INAI tiene como objetivos desarrollar y coordinar políticas públicas para garantizar el desarrollo comunitario, el derecho a la salud y la educación, el acceso a la tierra y la preservación de las identidades culturales indígenas.
 
@@ -107,4 +107,32 @@ Recursos disponibles
 
 [Ley Nº 23.302 - Creación del Instituto Nacional de Asuntos Indígenas – INAI](http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm)
 
-[Convenio Nº 169 - Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes](http://www.ilo.org/wcmsp5/groups/public/@ed_norm/@normes/documents/publication/wcms_100910.pdf)
+[Ley 24.071](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/470/norma.htm) - [Aprobación del Convenio Nº 169 - Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes](http://www.ilo.org/wcmsp5/groups/public/@ed_norm/@normes/documents/publication/wcms_100910.pdf)
+
+[Ley Nº 26.160 - Declaración de emergencia en materia de posesión y propiedad de las tierras que tradicionalmente ocupan las comunidades indígenas originarias del país, cuya personería jurídica haya sido inscripta en el Registro Nacional de Comunidades Indígenas u organismo provincial competente o aquéllas preexistentes](http://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/122499/norma.htm)
+
+[Ley Nº 24.430 - Constitución de la Nación Argentina](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm)
+
+[Ley Nº 26.994 - Aprobación del Código Civil y Comercial de la Nación](http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm)
+
+[Ley Nº 26.331- Presupuestos Mínimos de Protección Ambiental en los Bosques Nativos](http://servicios.infoleg.gob.ar/infolegInternet/anexos/135000-139999/136125/norma.htm)y su [Decreto Reglamentario Nº 91/2009](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/150399/norma.htm)
+
+[Decreto Nº 700/2010 - Creación de la Comisión de Análisis e Instrumentación de la Propiedad Comunitaria Indígena](http://servicios.infoleg.gob.ar/infolegInternet/anexos/165000-169999/167619/norma.htm)
+
+[Resolución Nº 328/2010 - Creación del Registro Nacional de Organizaciones de Pueblos Indígenas (Re.No.Pi.)](http://digesto.desarrollosocial.gob.ar/normaTexto.php?Id=156&organismo=Instituto%20Nacional%20de%20Asuntos%20Ind%EDgenas)
+
+[Resolución Nº 4811/1996 - Creación del Registro Nacional de Comunidades Indígenas (Re.Na.Ci)](https://www.mpd.gov.ar/index.php/marconormativo-diversidad-cultural/leyes-nacionales-decretos-y-resoluciones/3144-resolucion-sds-n-4811-1996-instituto-nacional-de-asuntos-indigenas-inscripcion-de-comunidades-indigenas-en-el-registro-nacional-de-comunidades-indigenas)
+
+[Ley Nº 18.248 - Nuevas normas para la inscripción de nombres de las personas naturales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/120325/texact.htm)
+
+[Ley Nº 23.162 - Se incorpora un artículo un artículo a la Ley Nro. 18.248](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/26362/norma.htm)
+
+[Ley Nº 27.118 - Declaración de interés público la agricultura familiar, campesina e indígena](http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/241352/norma.htm)
+
+[Ley Nº 24.544 - Aprobación del Convenio Constitutivo del Fondo para el Desarrollo de los Pueblos Indígenas de América Latina y el Caribe, suscripto durante la II Cumbre Iberoamericana de Jefes de Estado y Gobierno](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/28545/norma.htm)
+
+[Ley Nº 24.375 - Aprobación del Convenio sobre la Diversidad Biológica, adoptado y abierto a la firma en Río de Janeiro el 5.6.92](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/29276/norma.htm)
+
+[Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas](https://www.un.org/esa/socdev/unpfii/documents/DRIPS_es.pdf)
+
+[Convenio sobre la Diversidad Biológica](https://www.cbd.int/doc/legal/cbd-es.pdf)
