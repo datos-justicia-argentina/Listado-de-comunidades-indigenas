@@ -3,7 +3,7 @@ Listado de comunidades indígenas
 
 En este conjunto de datos se detalla el listado de las comunidades indígenas existentes en el país.
 
-Esta tarea es llevada a cabo por el Registro Nacional de Comunidades Indígenas (Re.Na.Ci)que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI, este es el encargado de promover y proteger los derechos de los pueblos indígenas de Argentina.
+Esta tarea es llevada a cabo por el Registro Nacional de Comunidades Indígenas (Re.Na.Ci)que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI. Este es el encargado de promover y proteger los derechos de los pueblos indígenas de Argentina.
 
 El INAI tiene como objetivos desarrollar y coordinar políticas públicas para garantizar el desarrollo comunitario, el derecho a la salud y la educación, el acceso a la tierra y la preservación de las identidades culturales indígenas.
 
