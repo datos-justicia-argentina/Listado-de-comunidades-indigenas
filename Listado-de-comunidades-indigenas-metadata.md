@@ -1,13 +1,12 @@
 Listado de comunidades indígenas
 ================================
 
-En este conjunto de datos se detalla el listado de las comunidades indígenas existentes en el país.
+En este conjunto de datos se detalla el listado de las comunidades indígenas existentes de Argentina, registradas en el Registro Nacional de Comunidades Indígenas (Re.Na.Ci) que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI. 
 
-Esta tarea es llevada a cabo por el Registro Nacional de Comunidades Indígenas (Re.Na.Ci)que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI. Este es el encargado de promover y proteger los derechos de los pueblos indígenas de Argentina.
-
-El INAI tiene como objetivos desarrollar y coordinar políticas públicas para garantizar el desarrollo comunitario, el derecho a la salud y la educación, el acceso a la tierra y la preservación de las identidades culturales indígenas.
+El INAI es el encargado de promover y proteger los derechos de los pueblos indígenas de Argentina. Tiene como objetivos desarrollar y coordinar políticas públicas para garantizar el desarrollo comunitario, el derecho a la salud y la educación, el acceso a la tierra y la preservación de las identidades culturales indígenas.
 
 Del mismo modo promueve la participación de las comunidades en el diseño y gestión de las políticas de Estado que las involucran, respetando sus formas de organización tradicional y sus valores.
+El INAI fue creado mediante ley ...., funcionó en el Ministerio ... durante los años ... y .... Funciona en el Ministerio de Justicia, en el ámbito de la Secretaría de Derechos Humanos desde el año...
 
 http://datos.jus.gob.ar/dataset/listado-de-comunidades-indigenas
 
@@ -33,23 +32,21 @@ Recursos disponibles
 
 ### Listado de comunidades indígenas
 
--   **Nombre del archivo:** listado-comunidades-indigenas.csv
+-   **Nombre del archivo:** listado-comunidades-indigenas-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** se detalla el listado de las comunidades indígenas existentes en el país.
+-   **Descripción del contenido:** se detalla el listado de las comunidades indígenas existentes en el país, actualizado a la fecha indicada como AAAA-MM-DD.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal :** listado de las comunidades indígenas existentes en el país desde el año 1978 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado de las comunidades indígenas existentes en el país desde el año 1978 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
-
--   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
 
 -   **comunidad_id (int):** código que identifica la comunidad indígena
 
 -   **comunidad_nombre (string):** nombre de la comunidad indígena
 
--   **comunidad_pueblo (string):** pueblo en el que se encuentra la comunidad indígena
+-   **comunidad_pueblo (string):** pueblo al que pertenece la comunidad indígena
 
 -   **comunidad_provincia (string):** provincia en la que se encuentra la comunidad indígena
 
@@ -71,7 +68,7 @@ Recursos disponibles
 
     -   Sin dato
 
--   **comunidad_localizada (string):** indica si la comunidad indígena se encuentra localizada. Puede tomar los valores:
+-   **comunidad_localizada (string):** indica si la comunidad indígena se encuentra geolocalizada en el Re.Na.Ci. Puede tomar los valores:
 
     -   Si
 
@@ -81,7 +78,7 @@ Recursos disponibles
 
 -   **comunidad_longitud (string):** longitud geográfica en la que se encuentra la comunidad indígena
 
--   **personeria_juridica (string):** situación jurídica en la que se encuentra la comunidad indígena. Puede tomar los valores:
+-   **personeria_juridica (string):** situación en cuanto a su personería jurídica en la que se encuentra la comunidad indígena. Puede tomar los valores:
 
     -   Inscripta
 
@@ -95,11 +92,13 @@ Recursos disponibles
 
     -   Provincial
 
--   **personeria_numero_inscripcion (string):** número que certifica la inscripción de la comunidad indígena
+-   **personeria_numero_inscripcion (string):** número que certifica la inscripción de la comunidad indígena en el ámbito nacional, provincial o mediante convenio
 
--   **personeria_fecha_inscripcion (date**): fecha en la que se inscribióla comunidad indígena
+-   **personeria_fecha_inscripcion (date):** fecha en la que se inscribió la comunidad indígena
 
--   **personeria_organismo_inscripcion (string):** organismo por el cual se inscribió la comunidad indígena
+-   **personeria_organismo_inscripcion (string):** organismo por el cual se inscribió la comunidad indígena. 
+
+-   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
 
 
 
