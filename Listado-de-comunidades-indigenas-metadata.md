@@ -135,3 +135,5 @@ Recursos disponibles
 [Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas](https://www.un.org/esa/socdev/unpfii/documents/DRIPS_es.pdf)
 
 [Convenio sobre la Diversidad Biológica](https://www.cbd.int/doc/legal/cbd-es.pdf)
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 1041 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-1041-APN-MJ.pdf), del 5 de diciembre de 2018.
