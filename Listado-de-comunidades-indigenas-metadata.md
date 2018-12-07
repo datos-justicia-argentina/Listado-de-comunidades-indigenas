@@ -99,9 +99,6 @@ Recursos disponibles
 -   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
 
 
-
-### Notas
-
 ## Normativa Nacional
 
 [Ley Nº 23.302 - Creación del Instituto Nacional de Asuntos Indígenas – INAI](http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm)
@@ -140,7 +137,7 @@ Recursos disponibles
 
 [Convenio sobre la Diversidad Biológica de Naciones Unidas](https://www.cbd.int/doc/legal/cbd-es.pdf)
 
-## Consideraciones para la interpretación de los datos del relevamiento técnico, jurídico y catastral (Ley N° 26.160)
+Consideraciones para la interpretación de los datos del relevamiento técnico, jurídico y catastral (Ley N° 26.160)
 
 ¿Qué es el Programa Nacional Relevamiento Territorial de Comunidades Indígenas (Re.Te.C.I.)?
 ---------------------------------------------------------------------------------------------
