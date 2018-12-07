@@ -137,7 +137,7 @@ Recursos disponibles
 
 [Convenio sobre la Diversidad Biológica de Naciones Unidas](https://www.cbd.int/doc/legal/cbd-es.pdf)
 
-Consideraciones para la interpretación de los datos del relevamiento técnico, jurídico y catastral (Ley N° 26.160)
+## Consideraciones para la interpretación de los datos del relevamiento técnico, jurídico y catastral (Ley N° 26.160)
 
 
 ¿Qué es el Programa Nacional Relevamiento Territorial de Comunidades Indígenas (Re.Te.C.I.)?
