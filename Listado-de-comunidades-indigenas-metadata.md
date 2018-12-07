@@ -1,19 +1,19 @@
 Listado de comunidades indígenas
 ================================
 
-En este conjunto de datos se detalla el listado de las comunidades indígenas existentes de Argentina, registradas en el Registro Nacional de Comunidades Indígenas (Re.Na.Ci) que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI. 
+En este conjunto de datos se detalla el listado de las Comunidades Indígenas con personería jurídica registrada y, a su vez, aquellas con relevamiento técnico, jurídico y catastral, que se lleva adelante a través del Programa Nacional Relevamiento Territorial de Comunidades Indígenas (Re.Te.C.I.), ya sea que estén en trámite o culminados y que no hayan registrado la personería.
 
+Los registros de las personerías jurídicas pueden ser:  a nivel nacional, en el Registro Nacional de Comunidades Indígenas (Re.Na.Ci) que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI, o provincial (ya sea bajo la forma de Comunidad Indígena u otras formas organizativas tales como asociaciones civiles, asociaciones o agrupaciones comunitarias, etc)
 El INAI es el encargado de promover y proteger los derechos de los pueblos indígenas de Argentina. Tiene como objetivos desarrollar y coordinar políticas públicas para garantizar el desarrollo comunitario, el derecho a la salud y la educación, el acceso a la tierra y la preservación de las identidades culturales indígenas.
 
-Del mismo modo promueve la participación de las comunidades en el diseño y gestión de las políticas de Estado que las involucran, respetando sus formas de organización tradicional y sus valores.
-El INAI fue creado mediante ley ...., funcionó en el Ministerio ... durante los años ... y .... Funciona en el Ministerio de Justicia, en el ámbito de la Secretaría de Derechos Humanos desde el año...
+Del mismo modo promueve la participación de las comunidades en el diseño y gestión de las políticas de Estado que las involucran, respetando sus formas de organización tradicional y sus valores. El INAI, como organismo descentralizado de la APN, fue creado mediante la Ley Nº 23.302, funcionó en el Ministerio de Desarrollo Social entre los años 1985 y 2015. Actualmente, se encuentra dentro del organigrama del Ministerio de Justicia, en el ámbito de la Secretaría de Derechos Humanos.
 
 http://datos.jus.gob.ar/dataset/listado-de-comunidades-indigenas
 
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** DD/MM/AAAA
+-   **Fecha de Primera Publicación:** 07/12/2018
 
 -   **Tags o Etiquetas:** INAI, comunidades, derechos humanos, identidad, indígenas, pueblos originarios, territorio
 
@@ -25,7 +25,7 @@ Características
 
 -   **Grupo:** Derechos Humanos
 
--   **Frecuencia de Actualización:** Mensualmente
+-   **Frecuencia de Actualización:** Trimestralmente
 
 Recursos disponibles
 --------------------
@@ -34,19 +34,19 @@ Recursos disponibles
 
 -   **Nombre del archivo:** listado-comunidades-indigenas-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** se detalla el listado de las comunidades indígenas existentes en el país, actualizado a la fecha indicada como AAAA-MM-DD.
+-   **Descripción del contenido:** se detalla el listado de las comunidades indígenas con personería jurídica registrada.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado de las comunidades indígenas existentes en el país desde el año 1978 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado de las comunidades indígenas con personería jurídica registradas (nacional o provincial) desde el año 1978 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **comunidad_id (int):** código que identifica la comunidad indígena
+-   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
 
 -   **comunidad_nombre (string):** nombre de la comunidad indígena
 
--   **comunidad_pueblo (string):** pueblo al que pertenece la comunidad indígena
+-   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
 
 -   **comunidad_provincia (string):** provincia en la que se encuentra la comunidad indígena
 
@@ -68,41 +68,41 @@ Recursos disponibles
 
     -   Sin dato
 
--   **comunidad_localizada (string):** indica si la comunidad indígena se encuentra geolocalizada en el Re.Na.Ci. Puede tomar los valores:
-
-    -   Si
-
-    -   No
-
 -   **comunidad_latitud (string):** latitud geográfica en la que se encuentra la comunidad indígena
 
 -   **comunidad_longitud (string):** longitud geográfica en la que se encuentra la comunidad indígena
 
--   **personeria_juridica (string):** situación en cuanto a su personería jurídica en la que se encuentra la comunidad indígena. Puede tomar los valores:
-
-    -   Inscripta
-
-    -   En trámite
+-   **personeria_juridica (string):** situación en cuanto a su personería jurídica en la que se encuentra la comunidad indígena
 
 -   **personeria_tipo_inscripcion (string):** tipo de inscripción de la comunidad indígena. Puede tomar los valores:
-
-    -   Convenio
 
     -   Nacional
 
     -   Provincial
 
--   **personeria_numero_inscripcion (string):** número que certifica la inscripción de la comunidad indígena en el ámbito nacional, provincial o mediante convenio
+    -   Provincial (por convenio)
+
+-   **personeria_numero_inscripcion (string):** número que certifica la inscripción de la comunidad indígena en el ámbito nacional, provincial o mediante convenio de la provincia con el INAI
 
 -   **personeria_fecha_inscripcion (date):** fecha en la que se inscribió la comunidad indígena
 
--   **personeria_organismo_inscripcion (string):** organismo por el cual se inscribió la comunidad indígena. 
+-   **personeria_organismo_inscripcion (string):** organismo por el cual se inscribió la comunidad indígena
+
+-   **relevamiento_estado (string):** situación de avance en la que se encuentra el relevamiento técnico, jurídico y catastral de la comunidad.Puede tomar los valores:
+
+    -   Culminado
+    
+    -   En trámite
+
+-   **relevamiento_fecha (date):** fecha en la que se realizó el trabajo de campo del relevamiento técnico, jurídico y catastral de la comunidad
 
 -   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
 
 
 
 ### Notas
+
+## Normativa Nacional
 
 [Ley Nº 23.302 - Creación del Instituto Nacional de Asuntos Indígenas – INAI](http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm)
 
@@ -132,8 +132,43 @@ Recursos disponibles
 
 [Ley Nº 24.375 - Aprobación del Convenio sobre la Diversidad Biológica, adoptado y abierto a la firma en Río de Janeiro el 5.6.92](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/29276/norma.htm)
 
+## Normativa Internacional
+
+[Convenio 169 de la Organización Internacional del Trabajo sobre pueblos indígenas y tribales en países independientes](http://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312314)
+
 [Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas](https://www.un.org/esa/socdev/unpfii/documents/DRIPS_es.pdf)
 
-[Convenio sobre la Diversidad Biológica](https://www.cbd.int/doc/legal/cbd-es.pdf)
+[Convenio sobre la Diversidad Biológica de Naciones Unidas](https://www.cbd.int/doc/legal/cbd-es.pdf)
+
+## Consideraciones para la interpretación de los datos del relevamiento técnico, jurídico y catastral (Ley N° 26.160)
+
+¿Qué es el Programa Nacional Relevamiento Territorial de Comunidades Indígenas (Re.Te.C.I.)?
+---------------------------------------------------------------------------------------------
+
+Es el Programa creado por el Instituto Nacional de Asuntos Indígenas, con participación de los representantes del Consejo de Participación Indígena y aprobado por el Estado Nacional en el año 2007, mediante el cual se relevan las Comunidades Indígenas del País.
+
+La ejecución de dicho programa, en las Comunidades que acrediten una ocupación con las características determinadas por la Ley 26.160, significa un primer paso en el reconocimiento del Estado Federal sobre la ocupación de  tierras que de manera actual, tradicional y pública realizan las Comunidades Indígenas.
+
+El relevamiento NO ES un censo, ni una mensura. NO otorga título de propiedad y NO tiene por objetivo resolver conflictos internos ni con terceros.
+
+¿Quiénes llevarán a cabo el relevamiento técnico, jurídico y catastral?
+------------------------------------------------------------------------
+
+Teniendo en cuenta que el relevamiento que se realiza es técnico, jurídico y catastral, lo que implica conocimientos específicos y técnicos de distintas disciplinas y profesiones (geógrafos, antropólogos, administrativos, abogados, etc.), lo realizan dichos profesionales conformando Equipos Técnicos Operativos compuestos con participación del Consejo de Participación Indígena, las Provincias y el Instituto Nacional de Asuntos Indígenas.
+
+El relevamiento siempre cuenta con la participación de la Comunidad sobre la cual se realiza, mediante la participación de las Autoridades y miembros Comunitarios.
+
+ ¿Cuál es el resultado del relevamiento técnico, jurídico y catastral?
+----------------------------------------------------------------------- 
+
+Una Carpeta Técnica que se entrega a cada comunidad cuyo relevamiento ha sido culminado, que contiene los siguientes componentes:
+
+* Un Cuestionario Socio Comunitario (CUESCI), con los datos brindados por la Comunidad acerca de la situación actual en la que vive;
+* En las Comunidades Indígenas que acreditan ocupar tierras de manera actual, tradicional y pública, se entregan: Cartografías de ocupación con dichas características; cartografías de caracterización catastral y, de acuerdo al caso, diferentes mapas que reflejen las características de ocupación y la superposición con los titulares registrales, en caso de existir (dichas cartografías se realizan con el insumo surgido durante el trabajo de campo del equipo técnico operativo en la comunidad ( 3 a 15 días). Si la situación territorial anterior a dicho trabajo era otra o posteriormente varía, esa realidad no se ve reflejada en las mismas; 
+* Un Informe Histórico Antropológico que contiene el relato de la historia de cada Pueblo y cada Comunidad y la descripción de su relación con la tierra; 
+* Un Dictamen Jurídico o Informe Legal que reúne todos los antecedentes legales de la comunidad, la información catastral y dominial de la tierra relevada y sugiere a la Comunidad posibles estrategias administrativas o judiciales para encaminar, a futuro y por otro medio,  su reclamo; 
+* Una Resolución Administrativa que da por realizado el relevamiento y, en caso de corresponder, reconoce la ocupación de la Comunidad. 
+La Carpeta Técnica es una herramienta que, en conjunto con otros elementos y con la futura Ley de Propiedad Comunitaria, posibilita encaminar la regularización de las tierras.
+
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 1041 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-1041-APN-MJ.pdf), del 5 de diciembre de 2018.
