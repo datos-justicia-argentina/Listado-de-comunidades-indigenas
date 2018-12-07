@@ -139,6 +139,7 @@ Recursos disponibles
 
 Consideraciones para la interpretación de los datos del relevamiento técnico, jurídico y catastral (Ley N° 26.160)
 
+
 ¿Qué es el Programa Nacional Relevamiento Territorial de Comunidades Indígenas (Re.Te.C.I.)?
 ---------------------------------------------------------------------------------------------
 
