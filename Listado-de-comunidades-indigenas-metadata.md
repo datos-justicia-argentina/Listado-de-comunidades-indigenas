@@ -31,7 +31,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de comunidades indígenas
+### Listado de comunidades indígenas - AAAA-MM-DD
 
 -   **Nombre del archivo:** listado-comunidades-indigenas-AAAA-MM-DD.csv
 
@@ -99,6 +99,13 @@ Recursos disponibles
 
 -   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
 
+### Listado de comunidades indígenas - AAAA
+
+-   **Nombre del archivo:** listado-comunidades-indigenas-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
 
 ## Normativa Nacional
 
