@@ -31,9 +31,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de comunidades indígenas - AAAA-MM-DD
+### Listado de comunidades indígenas - AAAAMMDD
 
--   **Nombre del archivo:** listado-comunidades-indigenas-AAAA-MM-DD.csv
+-   **Nombre del archivo:** listado-comunidades-indigenas-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detalla el listado de las comunidades indígenas con personería jurídica registrada.
 
