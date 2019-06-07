@@ -43,15 +43,13 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena (hasta 05/2019 el nombre del campo fue provincia_indec_id)
-
--   **provincia_nombre (string):** nombre de la provincia en la que se encuentra la comunidad indígena (hasta 05/2019 el nombre del campo fue comunidad_provincia)
-
 -   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
 
 -   **comunidad_nombre (string):** nombre de la comunidad indígena
 
 -   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
+
+-   **comunidad_provincia (string):** nombre de la provincia en la que se encuentra la comunidad indígena (hasta 05/2019 el nombre del campo fue comunidad_provincia)
 
 -   **comunidad_departamento (string):** departamento en el que se encuentra la comunidad indígena
 
@@ -99,6 +97,7 @@ Recursos disponibles
 
 -   **relevamiento_fecha (date):** fecha en la que se realizó el trabajo de campo del relevamiento técnico, jurídico y catastral de la comunidad
 
+-   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
 
 
 ### Listado de comunidades indígenas - AAAA
