@@ -43,13 +43,15 @@ Recursos disponibles
 
 ### Campos del recurso
 
+-   **provincia_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena (hasta 05/2019 el nombre del campo fue provincia_indec_id)
+
+-   **provincia_nombre (string):** nombre de la provincia en la que se encuentra la comunidad indígena (hasta 05/2019 el nombre del campo fue comunidad_provincia)
+
 -   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
 
 -   **comunidad_nombre (string):** nombre de la comunidad indígena
 
 -   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
-
--   **comunidad_provincia (string):** provincia en la que se encuentra la comunidad indígena
 
 -   **comunidad_departamento (string):** departamento en el que se encuentra la comunidad indígena
 
@@ -97,7 +99,7 @@ Recursos disponibles
 
 -   **relevamiento_fecha (date):** fecha en la que se realizó el trabajo de campo del relevamiento técnico, jurídico y catastral de la comunidad
 
--   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
+
 
 ### Listado de comunidades indígenas - AAAA
 
@@ -113,7 +115,8 @@ Recursos disponibles
 
 [Ley 24.071](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/470/norma.htm) - [Aprobación del Convenio Nº 169 - Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes](http://www.ilo.org/wcmsp5/groups/public/@ed_norm/@normes/documents/publication/wcms_100910.pdf)
 
-[Ley Nº 26.160 - Declaración de emergencia en materia de posesión y propiedad de las tierras que tradicionalmente ocupan las comunidades indígenas originarias del país, cuya personería jurídica haya sido inscripta en el Registro Nacional de Comunidades Indígenas u organismo provincial competente o aquéllas preexistentes](http://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/122499/norma.htm)
+[Ley Nº 26.160 - Declaración de emergencia en materia de posesión y propiedad de las tierras que tradicionalmente ocupan las comunidades indígenas originarias del país, cuya personería jurídica haya sido inscripta en el Registro Nacional de Comunidades Indígenas u organismo 
+l competente o aquéllas preexistentes](http://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/122499/norma.htm)
 
 [Ley Nº 24.430 - Constitución de la Nación Argentina](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm)
 
