@@ -55,15 +55,9 @@ Recursos disponibles
 
 -   **localidad_nombre (string):** nombre de localidad en que se encuentra la comunidad
 
--   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
+-   **barrio_nombre (string):** barrio en el que se encuentra la comunidad indígena
 
--   **comunidad_nombre (string):** nombre de la comunidad indígena
-
--   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
-
--   **comunidad_barrio (string):** barrio en el que se encuentra la comunidad indígena
-
--   **comunidad_zona (string):** zona en la que se encuentra la comunidad indígena. Puede tomar los valores:
+-   **zona_tipo (string):** zona en la que se encuentra la comunidad indígena. Puede tomar los valores:
 
     -   Urbana
 
@@ -74,6 +68,12 @@ Recursos disponibles
     -   Ambas (Urbana – Rural)
 
     -   Sin dato
+    
+-   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
+
+-   **comunidad_nombre (string):** nombre de la comunidad indígena
+
+-   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
 
 -   **comunidad_latitud (string):** latitud geográfica en la que se encuentra la comunidad indígena
 
