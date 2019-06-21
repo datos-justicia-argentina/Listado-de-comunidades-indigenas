@@ -43,6 +43,12 @@ Recursos disponibles
 
 ### Campos del recurso
 
+-   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
+
+-   **comunidad_nombre (string):** nombre de la comunidad indígena
+
+-   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
+
 -   **provincia_id (string):** código de provincia en que se encuentra la comunidad, según la codificación implementada por INDEC
 
 -   **provincia_nombre (string):** nombre de provincia en que se encuentra la comunidad
@@ -68,16 +74,10 @@ Recursos disponibles
     -   Ambas (Urbana – Rural)
 
     -   Sin dato
-    
--   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
 
--   **comunidad_nombre (string):** nombre de la comunidad indígena
+-   **ubicacion_latitud (string):** latitud geográfica en la que se encuentra la comunidad indígena
 
--   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
-
--   **comunidad_latitud (string):** latitud geográfica en la que se encuentra la comunidad indígena
-
--   **comunidad_longitud (string):** longitud geográfica en la que se encuentra la comunidad indígena
+-   **ubicacion_longitud (string):** longitud geográfica en la que se encuentra la comunidad indígena
 
 -   **personeria_juridica (string):** situación en cuanto a su personería jurídica en la que se encuentra la comunidad indígena
 
