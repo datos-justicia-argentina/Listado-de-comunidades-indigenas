@@ -101,6 +101,10 @@ Recursos disponibles
     
     -   En trámite
 
+    -   Sin relevar
+
+    -   Sin relevar (*): Contempla a las comunidades en las que se ha avanzado en tareas de campo o gabinete del relevamiento técnico-jurídico-catastral, pero por diversas razones no se han podido continuar. En el caso de las comunidades relevadas mediante la ejecución centralizada se ha realizado la difusión y en las que fueron relevadas mediante las modalidades de co-ejecución o descentralizadas se ha avanzado en los trabajos de campo o gabinete
+
 -   **relevamiento_fecha (date):** fecha en la que se realizó el trabajo de campo del relevamiento técnico, jurídico y catastral de la comunidad
 
 -   **provincia_indec_id (int):** código INDEC de la provincia en la que se encuentra la comunidad indígena
