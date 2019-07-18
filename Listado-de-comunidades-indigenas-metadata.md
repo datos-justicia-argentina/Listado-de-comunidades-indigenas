@@ -95,7 +95,7 @@ Recursos disponibles
 
 -   **personeria_organismo_inscripcion (string):** organismo por el cual se inscribió la comunidad indígena
 
--   **relevamiento_estado (string):** situación de avance en la que se encuentra el relevamiento técnico, jurídico y catastral de la comunidad.Puede tomar los valores:
+-   **relevamiento_estado (string):** situación de avance en la que se encuentra el relevamiento técnico, jurídico y catastral de la comunidad. Puede tomar los valores:
 
     -   Culminado
     
