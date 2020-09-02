@@ -29,7 +29,7 @@ Características
 Recursos disponibles
 --------------------
 
-**Listado de comunidades indígenas - AAAAMMDD**
+### Listado de comunidades indígenas - AAAAMMDD
 
 -   **Nombre del archivo:** listado-comunidades-indigenas-AAAAMMDD.csv
 
@@ -113,8 +113,15 @@ Recursos disponibles
 
 -   **relevamiento_fecha_resolucion (date):** fecha en la que se firmó la resolución administrativa que da por concluidas las tareas de relevamiento
 
-Normativa nacional
-------------------
+### Listado de comunidades indígenas - AAAA
+
+-   **Nombre del archivo:** listado-comunidades-indigenas-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
+
+-   **Formato:** ZIP
+
+## Normativa Nacional
 
 [*Ley Nº 23.302 - Creación del Instituto Nacional de Asuntos Indígenas – INAI*](http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm)
 
@@ -144,8 +151,7 @@ Normativa nacional
 
 [*Ley Nº 24.375 - Aprobación del Convenio sobre la Diversidad Biológica, adoptado y abierto a la firma en Río de Janeiro el 5.6.92*](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/29276/norma.htm)
 
-Normativa internacional
------------------------
+## Normativa Internacional
 
 [*Convenio 169 de la Organización Internacional del Trabajo sobre pueblos indígenas y tribales en países independientes*](http://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312314)
 
