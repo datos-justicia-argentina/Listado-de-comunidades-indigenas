@@ -1,4 +1,5 @@
-**Listado de comunidades indígenas**
+Listado de comunidades indígenas
+================================
 
 En este conjunto de datos se detalla el listado de las Comunidades Indígenas con personería jurídica registrada, ya sea, a nivel nacional, en el Registro Nacional de Comunidades Indígenas (Re.Na.Ci) que funciona en la órbita del Instituto Nacional de Asuntos Indígenas – INAI, o a nivel provincial. Y, a su vez, aquellas con relevamiento técnico, jurídico y catastral, que se lleva adelante a través del Programa Nacional Relevamiento Territorial de Comunidades Indígenas (Re.Te.C.I.), ya sea que estén iniciado, en trámite o culminados y que no hayan registrado la personería.
 
@@ -8,7 +9,8 @@ Del mismo modo promueve la participación de las comunidades en el diseño y ges
 
 http://datos.jus.gob.ar/dataset/listado-de-comunidades-indigenas
 
-**Características**
+Características
+---------------
 
 -   **Fecha de Primera Publicación:** 07/12/2018
 
@@ -24,7 +26,8 @@ http://datos.jus.gob.ar/dataset/listado-de-comunidades-indigenas
 
 -   **Frecuencia de Actualización:** Trimestralmente
 
-**Recursos disponibles**
+Recursos disponibles
+--------------------
 
 **Listado de comunidades indígenas - AAAAMMDD**
 
@@ -36,7 +39,7 @@ http://datos.jus.gob.ar/dataset/listado-de-comunidades-indigenas
 
 -   **Rango temporal:** a partir del año 1985 con la creación del Instituto Nacional de Asuntos Indígenas, bajo la Ley N° 23.302.
 
-**Campos del recurso**
+### Campos del recurso
 
 -   **comunidad_id (int):** código que identifica la comunidad indígena, las dos primeras cifras corresponden al código INDEC de la provincia en la que se encuentra la comunidad. Cabe aclarar que la cantidad de comunidades identificadas puede sufrir variaciones dado que es una información que se actualiza periódicamente y en conjunto con los organismos provinciales correspondientes
 
