@@ -109,9 +109,9 @@ Recursos disponibles
 
 -   **relevamiento_fecha (date):** fecha en la que se realizó el trabajo de campo del relevamiento técnico, jurídico y catastral de la comunidad
 
--   **relevamiento_resolucion_inai (string):** resolución administrativa que da por concluidas las tareas de relevamiento técnico-jurídico-catastral de la comunidad
+-   **relevamiento_resolucion_inai (string):** resolución administrativa que da por concluidas las tareas de relevamiento técnico-jurídico-catastral de la comunidad. Este campo es informado desde agosto de 2020.
 
--   **relevamiento_fecha_resolucion (date):** fecha en la que se firmó la resolución administrativa que da por concluidas las tareas de relevamiento
+-   **relevamiento_fecha_resolucion (date):** fecha en la que se firmó la resolución administrativa que da por concluidas las tareas de relevamiento. Este campo es informado desde agosto de 2020.
 
 ### Listado de comunidades indígenas - AAAA
 
