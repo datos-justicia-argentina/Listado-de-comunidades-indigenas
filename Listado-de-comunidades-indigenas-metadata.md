@@ -113,7 +113,8 @@ Recursos disponibles
 
 -   **relevamiento_fecha_resolucion (date):** fecha en la que se firmó la resolución administrativa que da por concluidas las tareas de relevamiento
 
-**Normativa nacional**
+Normativa nacional
+------------------
 
 [*Ley Nº 23.302 - Creación del Instituto Nacional de Asuntos Indígenas – INAI*](http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm)
 
@@ -143,7 +144,8 @@ Recursos disponibles
 
 [*Ley Nº 24.375 - Aprobación del Convenio sobre la Diversidad Biológica, adoptado y abierto a la firma en Río de Janeiro el 5.6.92*](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/29276/norma.htm)
 
-**Normativa internacional**
+Normativa internacional
+-----------------------
 
 [*Convenio 169 de la Organización Internacional del Trabajo sobre pueblos indígenas y tribales en países independientes*](http://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312314)
 
