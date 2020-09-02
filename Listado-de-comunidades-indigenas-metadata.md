@@ -37,7 +37,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** a partir del año 1985 con la creación del Instituto Nacional de Asuntos Indígenas, bajo la Ley N° 23.302.
+-   **Rango temporal:** a partir del año 1985 con la creación del Instituto Nacional de Asuntos Indígenas, bajo la [Ley N° 23.302](http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/23790/texact.htm)
 
 ### Campos del recurso
 
