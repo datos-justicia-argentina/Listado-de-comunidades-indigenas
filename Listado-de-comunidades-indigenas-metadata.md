@@ -59,7 +59,7 @@ Recursos disponibles
 
 -   **comunidad_localidad (string):** nombre de localidad en que se encuentra la comunidad
 
--   **comunidad_barrio (string):** barrio o paraje en el que se encuentra la comunidad indígena
+-   **comunidad_barrio_paraje (string):** barrio o paraje en el que se encuentra la comunidad indígena
 
 -   **comunidad_zona (string):** espacio en el que se encuentra la comunidad indígena. Puede tomar los valores:
 
