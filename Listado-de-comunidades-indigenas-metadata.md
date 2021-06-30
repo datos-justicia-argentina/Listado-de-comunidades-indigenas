@@ -9,6 +9,8 @@ Del mismo modo promueve la participación de las comunidades en el diseño y ges
 
 http://datos.jus.gob.ar/dataset/listado-de-comunidades-indigenas
 
+https://www.argentina.gob.ar/derechoshumanos/inai
+
 Características
 ---------------
 
@@ -120,6 +122,8 @@ Recursos disponibles
 -   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
 
 -   **Formato:** ZIP
+
+[Mapa de pueblos originarios](https://www.argentina.gob.ar/derechoshumanos/inai/mapa)
 
 ## Normativa Nacional
 
