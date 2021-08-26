@@ -20,11 +20,11 @@ Características
 
 -   **Tags o Etiquetas:** INAI, comunidades, derechos humanos, identidad, indígenas, pueblos originarios, territorio
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Instituto Nacional de Asuntos Indígenas
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Instituto Nacional de Asuntos Indígenas
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Instituto Nacional de Asuntos Indígenas
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Instituto Nacional de Asuntos Indígenas
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Instituto Nacional de Asuntos Indígenas
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Instituto Nacional de Asuntos Indígenas
 
 -   **Grupo:** Derechos Humanos
 
