@@ -51,6 +51,8 @@ Recursos disponibles
 
 -   **comunidad_pueblo (string):** pueblo al que la comunidad manifiesta pertenecer, sin ser útil como dato indicador de la cantidad de pueblos existentes en el país
 
+-   **comunidad_pueblo_referencia (string):** pueblo de referencia al que la comunidad manifiesta pertenecer
+
 -   **provincia_id:** código numérico de dos posiciones para divisiones político-territoriales de la República Argentina
 
 -   **comunidad_provincia (string):** nombre de provincia en que se encuentra la comunidad
@@ -60,6 +62,8 @@ Recursos disponibles
 -   **comunidad_departamento (string):** nombre de departamento en que se encuentra la comunidad
 
 -   **localidad_id (string):** código de localidad en que se encuentra la comunidad, según la codificación implementada por INDEC
+
+-   **comunidad_localidad_censal (string):** nombre de localidad censal cercana a la ubicación de la comunidad
 
 -   **comunidad_localidad (string):** nombre de localidad en que se encuentra la comunidad
 
