@@ -121,6 +121,10 @@ Recursos disponibles
 
 -   **relevamiento_fecha_resolucion (date):** fecha en la que se firmó la resolución administrativa que da por concluidas las tareas de relevamiento. Este campo es informado desde agosto de 2020.
 
+-   **ubicacion_latitud (string):**  latitud geográfica en la que se encuentra la comunidad indígena expresada en grados decimales
+
+-   **ubicacion_longitud (string):**  longitud geográfica en la que se encuentra la comunidad indígena expresada en grados decimales
+
 ### Listado de comunidades indígenas - AAAA
 
 -   **Nombre del archivo:** listado-comunidades-indigenas-AAAA.zip
