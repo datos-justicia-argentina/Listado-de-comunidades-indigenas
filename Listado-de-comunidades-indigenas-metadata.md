@@ -109,11 +109,9 @@ Recursos disponibles
 
     -   En trámite
 
-    -   Iniciado *
-
+    -   Iniciado (Contempla a las comunidades en las que se ha realizado la difusión o se avanzado en tareas de campo o gabinete del relevamiento técnico-jurídico-                       catastral, pero por diversas razones no se han podido continuar)
+    
     -   Sin relevar
-
-* Contempla a las comunidades en las que se ha realizado la difusión o se avanzado en tareas de campo o gabinete del relevamiento técnico-jurídico-catastral, pero por diversas razones no se han podido continuar
 
 -   **relevamiento_fecha (date):** fecha en la que se realizó el trabajo de campo del relevamiento técnico, jurídico y catastral de la comunidad
 
