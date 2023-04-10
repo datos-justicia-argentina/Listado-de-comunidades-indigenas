@@ -85,7 +85,7 @@ Recursos disponibles
 
 -   **comunidad_longitud (string)*****:**  longitud geográfica en la que se encuentra la comunidad indígena
 
-* Solo se informa la localización de aquellas comunidades en las que el relevamiento técnico, jurídico y catastral se encuentra culminado.
+    -   Solo se informa la localización de aquellas comunidades en las que el relevamiento técnico, jurídico y catastral se encuentra culminado.
 
 -   **personeria_juridica_estado (string):** situación en cuanto a su personería jurídica en la que se encuentra la comunidad indígena
 
