@@ -81,9 +81,9 @@ Recursos disponibles
 
     -   Sin dato
 
--   **ubicacion_latitud (string)*****:**  latitud geográfica en la que se encuentra la comunidad indígena
+-   **comunidad_latitud (string)*****:**  latitud geográfica en la que se encuentra la comunidad indígena
 
--   **ubicacion_longitud (string)*****:**  longitud geográfica en la que se encuentra la comunidad indígena
+-   **comunidad_longitud (string)*****:**  longitud geográfica en la que se encuentra la comunidad indígena
 
 * Solo se informa la localización de aquellas comunidades en las que el relevamiento técnico, jurídico y catastral se encuentra culminado.
 
@@ -119,9 +119,9 @@ Recursos disponibles
 
 -   **relevamiento_fecha_resolucion (date):** fecha en la que se firmó la resolución administrativa que da por concluidas las tareas de relevamiento. Este campo es informado desde agosto de 2020.
 
--   **ubicacion_latitud (string):**  latitud geográfica en la que se encuentra la comunidad indígena expresada en grados decimales
+-   **comunidad_latitud_decimales (string):**  latitud geográfica en la que se encuentra la comunidad indígena expresada en grados decimales
 
--   **ubicacion_longitud (string):**  longitud geográfica en la que se encuentra la comunidad indígena expresada en grados decimales
+-   **comunidad_longitud_decimales (string):**  longitud geográfica en la que se encuentra la comunidad indígena expresada en grados decimales
 
 ### Listado de comunidades indígenas - AAAA
 
