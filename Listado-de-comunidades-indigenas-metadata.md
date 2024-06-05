@@ -20,11 +20,11 @@ Características
 
 -   **Tags o Etiquetas:** INAI, comunidades, derechos humanos, identidad, indígenas, pueblos originarios, territorio
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Instituto Nacional de Asuntos Indígenas
+-   **Organización:**  de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
+  
+-   **Autor:**  de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Instituto Nacional de Asuntos Indígenas
-
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos. Instituto Nacional de Asuntos Indígenas
+-   **Responsable:**  de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
 
 -   **Grupo:** Derechos Humanos
 
@@ -199,4 +199,4 @@ Una Carpeta Técnica que se entrega a cada comunidad cuyo relevamiento ha sido c
 
 -   Una Resolución Administrativa que da por realizado el relevamiento y, en caso de corresponder, reconoce la ocupación de la Comunidad. La Carpeta Técnica es una herramienta que, en conjunto con otros elementos y con la futura Ley de Propiedad Comunitaria, posibilita encaminar la regularización de las tierras.
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [*Resolución Nº 1041 del Ministerio de Justicia y Derechos Humanos*](http://datos.jus.gob.ar/resoluciones/RESOL-2018-1041-APN-MJ.pdf), del 5 de diciembre de 2018.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [*Resolución Nº 1041 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2018-1041-APN-MJ.pdf), del 5 de diciembre de 2018.
