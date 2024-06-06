@@ -20,11 +20,11 @@ Características
 
 -   **Tags o Etiquetas:** INAI, comunidades, derechos humanos, identidad, indígenas, pueblos originarios, territorio
 
--   **Organización:**  de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
+-   **Organización:** Ministerio de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
   
--   **Autor:**  de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
+-   **Autor:** Ministerio de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
 
--   **Responsable:**  de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
+-   **Responsable:** Ministerio de Justicia. Legado de datos - Instituto Nacional de Asuntos Indígenas
 
 -   **Grupo:** Derechos Humanos
 
